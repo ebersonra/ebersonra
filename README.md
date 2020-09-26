@@ -9,4 +9,4 @@
 - :house: Atualmente estou(*Ficarei por muito tempo :heart_eyes:) morando em Curitiba, PR. :snowflake:
 
 - 🔭 Atualmente tabalho em: BRQ Digital Solutions
-- 🌱 Atualmente estou aprendendo: React, JS, Redux, Selenium, UML e Shell Script.
+- 🌱 Atualmente estou aprendendo: React, JS, Redux, Selenium, Appium, Spring, UML e Shell Script.
