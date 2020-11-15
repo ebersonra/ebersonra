@@ -8,5 +8,6 @@
 - :man: :point_up: Eu sou Eberson Ramos, 29 anos, Desenvolvedor Java Backend.
 - :house: Atualmente estou(*Ficarei por muito tempo :heart_eyes:) morando em Curitiba, PR. :snowflake:
 
-- 🔭 Atualmente tabalho em: BRQ Digital Solutions
+- 🔭 Atualmente tabalho em: Banco Bradesco
 - 🌱 Atualmente estou aprendendo: React, JS, Redux, Selenium, Appium, Spring, UML e Shell Script.
+BRQ Digital Solutions
