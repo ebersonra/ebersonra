@@ -8,15 +8,22 @@
 </table>
 </center>
 
-### Salve, tudo certo? :man: :metal:
- 
+### Contacts
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ebersonra)](https://github.com/ebersonra)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eberson-ramos-b4a43657/)](https://www.linkedin.com/in/eberson-ramos-b4a43657/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ebersonra)](https://twitter.com/ebersonra)
 [![Gmail Badge](https://img.shields.io/badge/-ebersonramos11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ebersonramos11@gmail.com)](mailto:ebersonramos11@gmail.com)
 
-- :man: :point_up: Eu sou Eberson Ramos, 29 anos, Desenvolvedor Java Backend.
-- :house: Atualmente estou(*Ficarei por muito tempo :heart_eyes:) morando em Curitiba, PR. :snowflake:
+### Info
 
-- 🔭 Atualmente tabalho em: Banco Bradesco
-- 🌱 Atualmente estou aprendendo: React, JS, Redux, Selenium, Appium, Spring, UML e Shell Script.
+<center>
+  <table>
+    <tr>
+      <td><b>Name</b></td><td><b>Age</b></td><td><b>Profession</b></td><td><b>House</b></td><td><b>Company</b></td>
+    </tr>
+    <tr>
+      <td>Eberson Ramos :man: :metal:</td><td>30 year olds</td><td>Java Developer :computer:</td><td>Curitiba, PR. :house_with_garden: :snowflake:</td><td>Bradesco :bank:</td>
+    </tr>
+  </table>
+</center> 
